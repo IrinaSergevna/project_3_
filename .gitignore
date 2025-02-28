@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# PyCharm
+.idea/
+
+# Файлы покрытия pytest-cov
+.coverage
+coverage.xml
+htmlcov/
+
+# JSON-файлы
+*.json
